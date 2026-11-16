@@ -8,4 +8,4 @@ Ich möchte die neueste Edition spielen,deshalb installiere ich Java 25 in der S
 Das Serververzeichnis enthält paper.jar,server.properties,eula.txt und world folder.Als ich mit lokalem TCP-Port der Server erreichen kann,mache ich den lokalen Port über einen öffentlich zugänglich machen.Zuerst nutze ich playit.gg,aber der Ping war zu hoch,deshalb habe ich mit ChmlFrp einen TCP-Tunnel eingerichtet,der Verbindungen vom öffentlichen Port 39500 an den lokalen Port 25565 weiterleitet.
 Für den Testbetrieb habe ich die Whitelist und die Online-Authentifizierung deaktiviert.
 Am Ende wechsle ich world Folder ab.
-Das ist alles,was ich mit diesem Projekt gemacht habe.Ich hoffe meine Erfahrung bei Ihnen helfen kann.
+Das ist alles,was ich mit diesem Projekt gearbeitet habe.Ich hoffe meine Erfahrung bei Ihnen helfen kann.
